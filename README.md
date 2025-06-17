@@ -13,4 +13,4 @@ This is a simple implementation of the classic Tetris game using Python and Pyga
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/The-Kiet/tetris-game.git
+   git clone : https://github.com/The-Kiet/Tetris-game.py
